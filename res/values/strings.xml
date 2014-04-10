@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pump your life</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_skill">Add new skill</string>
+    <string name="skill_name">Skill name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_edit_skill">Edit skill</string>
+    <string name="action_delete_skill">Delete skill</string>
+    <string name="enter_skill_hint">Enter your skill here</string>
+
+</resources>
